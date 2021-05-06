@@ -15,6 +15,6 @@ Skills:
 Please feel free to contact me:
 * [LinkedIn](https://www.linkedin.com/in/aboueleyes)
 * [GitHub](https://github.com/aboueleyes)
-* [Gmail](mailto:ibrahim.abouelenein@gmail.com)
+* [Gmail](mailto:ibrahimabouelanin@gmail.com)
 * [Facebook](https://www.facebook.com/aboueleyes)
 * [Blog](https://aboueleyes.me)
