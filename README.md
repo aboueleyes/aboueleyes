@@ -1,16 +1,20 @@
-### Hi there 👋
+Hello there, 
 
-<!--
-**aboueleyes/aboueleyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Ibrahim Abou Elenein,
 
-Here are some ideas to get you started:
+a computer engineering student at the German University in Cairo (GUC) (To graduate on June 2024 isA).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am interested in Software Engineering, open sourse software 
+
+
+Skills:
+* Software Engineering 
+* Mathematics
+* Teaching
+
+Please feel free to contact me:
+* [LinkedIn](https://www.linkedin.com/in/aboueleyes)
+* [GitHub](https://github.com/aboueleyes)
+* [Gmail](mailto:ibrahim.abouelenein@gmail.com)
+* [Facebook](https://www.facebook.com/aboueleyes)
+* [Blog](https://aboueleyes.me)
