@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Django, PostgresSql**
 
-- 📝 I regularly write articles on [aboueleyes.github.io]([aoueleyes.github.io/](https://aboueleyes.github.io/))
+- 📝 I regularly write articles on [aboueleyes.github.io](https://aboueleyes.github.io/)
 
 - 📫 How to reach me **ibrahimabouelanin@gmail.com**
 
